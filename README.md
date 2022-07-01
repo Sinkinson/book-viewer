@@ -1,6 +1,6 @@
 # Book Viewer
 
-A simple book viewing application built with Ruby and Sinatra.
+A simple book viewing application built with `Ruby` and `Sinatra`.
 
 # How to use
 
